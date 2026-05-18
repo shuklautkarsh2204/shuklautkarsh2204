@@ -59,14 +59,6 @@ https://github.com/shuklautkarsh2204/ai-cyber-threat-detection-system
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shuklautkarsh2204&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shuklautkarsh2204&layout=compact)
-
----
-
 ## 🧠 Currently Learning
 
 - Advanced Machine Learning
@@ -78,7 +70,8 @@ https://github.com/shuklautkarsh2204/ai-cyber-threat-detection-system
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/shuklautkarsh2204
+- Linkedin: https://www.linkedin.com/in/utkarsh-shukla-4b5a8a310/
+- Instagram: https://www.instagram.com/utkarsh.shukla_22/ 
 
 ---
 
