@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE (AI/ML) Student  
+- 🎓 Pursuing Btech in Computer Science and Engineering (3rd Year) 
 - 🤖 Passionate about Artificial Intelligence and intelligent software systems  
 - 🛠️ Interested in building practical, real-world tech projects  
 - 📈 Currently improving my skills in Machine Learning, DSA, and Backend Development  
@@ -39,6 +39,7 @@
 
 ### Databases
 - MySQL
+- MongoDB
 
 ---
 
