@@ -22,7 +22,7 @@
 ### Programming Languages
 - Python
 - SQL
-- JavaScript
+- Java
 - C++
 
 ### AI / ML
