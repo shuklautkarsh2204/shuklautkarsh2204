@@ -72,7 +72,8 @@ https://github.com/shuklautkarsh2204/ai-cyber-threat-detection-system
 ## 📫 Connect With Me
 
 - Linkedin: https://www.linkedin.com/in/utkarsh-shukla-4b5a8a310/
-- Instagram: https://www.instagram.com/utkarsh.shukla_22/ 
+- Instagram: https://www.instagram.com/utkarsh.shukla_22/
+- Email: utkarshukla2205@gmail.com
 
 ---
 
