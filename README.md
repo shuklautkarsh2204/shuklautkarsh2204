@@ -79,4 +79,4 @@ https://github.com/shuklautkarsh2204/ai-cyber-threat-detection-system
 
 ## ⚡ Fun Fact
 
-I enjoy building projects that combine AI with real-world problem solving 🚀
+Not a Knower...But knows how to make things Work.
