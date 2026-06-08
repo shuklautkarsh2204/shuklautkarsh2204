@@ -55,7 +55,8 @@ An AI-powered cyber threat detection system that analyzes network traffic and id
 - CSV logging system
 - ML-based anomaly detection
 
-🔗 Repository:  
+🔗 Repository: 
+
 https://github.com/shuklautkarsh2204/ai-cyber-threat-detection-system
 
 ### 🧩 AI phishing detection system
@@ -67,6 +68,7 @@ An extension that detects whether the website is potentially malicious or suspic
 - Uses features like url length, age of domain, sfh feature etc to classify.
 
 🔗 Repository: 
+
 https://github.com/shuklautkarsh2204/ai-powered-phishing-website-detection-system
 
 ---
