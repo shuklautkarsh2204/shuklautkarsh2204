@@ -67,7 +67,7 @@ An extension that detects whether the website is potentially malicious or suspic
 - Uses features like url length, age of domain, sfh feature etc to classify.
 
 🔗 Repository: 
-
+https://github.com/shuklautkarsh2204/ai-powered-phishing-website-detection-system
 
 ---
 
