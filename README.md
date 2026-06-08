@@ -58,6 +58,17 @@ An AI-powered cyber threat detection system that analyzes network traffic and id
 🔗 Repository:  
 https://github.com/shuklautkarsh2204/ai-cyber-threat-detection-system
 
+### 🧩 AI phishing detection system
+An extension that detects whether the website is potentially malicious or suspicious or not.
+
+#### Features
+- Trained on a vast dataset of phishy websites (used **Logistic Regression** for training)
+- Classifies websites into phishy or safe in a pop up along with confidence scores.
+- Uses features like url length, age of domain, sfh feature etc to classify.
+
+🔗 Repository: 
+
+
 ---
 
 ## 🧠 Currently Learning
